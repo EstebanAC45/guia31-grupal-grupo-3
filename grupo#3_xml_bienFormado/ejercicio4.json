@@ -1,0 +1,193 @@
+{
+	"registro":{"dia":[
+			{
+				"@id":"Lunes",
+				"salto":"-",
+				"zona":[
+					{
+						"@zone":"oriental",
+						"minima":"Mínima: 27 °C |",
+						"promedio":"Promedio: 28 °C |",
+						"maxima":"Máxima: 29 °C",
+						"salto":"-"
+					},
+					{
+						"@zone":"occidental",
+						"minima":"Mínima: 29 °C |",
+						"promedio":"Promedio: 30 °C |",
+						"maxima":"Máxima: 32 °C",
+						"salto":"-"
+					},
+					{
+						"@zone":"central",
+						"minima":"Mínima: 27 °C |",
+						"promedio":"Promedio: 29 °C |",
+						"maxima":"Máxima: 33 °C",
+						"salto":null
+					}
+				]
+			},
+			{
+				"@id":"Martes",
+				"salto":"-",
+				"zona":[
+					{
+						"@zone":"oriental",
+						"minima":"Mínima: 24 °C |",
+						"promedio":"Promedio: 27 °C |",
+						"maxima":"Máxima: 33 °C",
+						"salto":"-"
+					},
+					{
+						"@zone":"occidental",
+						"minima":"Mínima: 28 °C |",
+						"promedio":"Promedio: 29 °C |",
+						"maxima":"Máxima: 31 °C",
+						"salto":"-"
+					},
+					{
+						"@zone":"central",
+						"minima":"Mínima: 27 °C |",
+						"promedio":"Promedio: 30 °C |",
+						"maxima":"Máxima : 34 °C",
+						"salto":null
+					}
+				]
+			},
+			{
+				"@id":"Miércoles",
+				"salto":"-",
+				"zona":[
+					{
+						"@zone":"oriental",
+						"minima":"Mínima: 31 °C |",
+						"promedio":"Promedio: 32 °C |",
+						"maxima":"Máxima: 33 °C",
+						"salto":"-"
+					},
+					{
+						"@zone":"occidental",
+						"minima":"Mínima: 28 °C |",
+						"promedio":"Promedio: 29 °C |",
+						"maxima":"Máxima: 32 °C",
+						"salto":"-"
+					},
+					{
+						"@zone":"central",
+						"minima":"Mínima: 27 °C |",
+						"promedio":"Promedio: 28 °C |",
+						"maxima":"Máxima: 31 °C",
+						"salto":null
+					}
+				]
+			},
+			{
+				"@id":"Jueves",
+				"salto":"-",
+				"zona":[
+					{
+						"@zone":"oriental",
+						"minima":"Mínima: 26 °C |",
+						"promedio":"Promedio: 29 °C |",
+						"maxima":"Máxima: 33 °C",
+						"salto":"-"
+					},
+					{
+						"@zone":"occidental",
+						"minima":"Mínima: 24 °C |",
+						"promedio":"Promedio: 28 °C |",
+						"maxima":"Máxima: 30 °C",
+						"salto":"-"
+					},
+					{
+						"@zone":"central",
+						"minima":"Mínima: 28 °C |",
+						"promedio":"Promedio: 28 °C |",
+						"maxima":"Máxima: 30 °C",
+						"salto":null
+					}
+				]
+			},
+			{
+				"@id":"Viernes",
+				"salto":"-",
+				"zona":[
+					{
+						"@zone":"oriental",
+						"minima":"Mínima: 31 °C |",
+						"promedio":"Promedio: 32 °C |",
+						"maxima":"Máxima: 33 °C",
+						"salto":"-"
+					},
+					{
+						"@zone":"occidental",
+						"minima":"Mínima: 28 °C |",
+						"promedio":"Promedio: 30 °C |",
+						"maxima":"Máxima: 32 °C",
+						"salto":"-"
+					},
+					{
+						"@zone":"central",
+						"minima":"Mínima: 30 °C |",
+						"promedio":"Promedio: 31 °C |",
+						"maxima":"Máxima: 32 °C",
+						"salto":null
+					}
+				]
+			},
+			{
+				"@id":"Sábado",
+				"salto":"-",
+				"zona":[
+					{
+						"@zone":"oriental",
+						"minima":"Mínima: 26 °C |",
+						"promedio":"Promedio: 28 °C |",
+						"maxima":"Máxima: 30 °C",
+						"salto":"-"
+					},
+					{
+						"@zone":"occidental",
+						"minima":"Mínima: 28 °C |",
+						"promedio":"Promedio: 30 °C |",
+						"maxima":"Máxima: 31 °C",
+						"salto":"-"
+					},
+					{
+						"@zone":"central",
+						"minima":"Mínima: 29 °C |",
+						"promedio":"Promedio: 30 °C  |",
+						"maxima":"Máxima: 33 °C ",
+						"salto":null
+					}
+				]
+			},
+			{
+				"@id":"Domingo",
+				"salto":"-",
+				"zona":[
+					{
+						"@zone":"oriental",
+						"minima":"Mínima: 31 °C |",
+						"promedio":"Promedio: 32 °C |",
+						"maxima":"Máxima: 34 °C",
+						"salto":"-"
+					},
+					{
+						"@zone":"occidental",
+						"minima":"Mínima: 27 °C |",
+						"promedio":"Promedio: 29 °C |",
+						"maxima":"Máxima: 31 °C",
+						"salto":"-"
+					},
+					{
+						"@zone":"central",
+						"minima":"Mínima: 29 °C |",
+						"promedio":"Promedio: 30 °C |",
+						"maxima":"Máxima 34 °C",
+						"salto":null
+					}
+				]
+			}
+		]}
+}

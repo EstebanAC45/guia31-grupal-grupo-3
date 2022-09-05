@@ -1,0 +1,22 @@
+registro{
+    background-color: antiquewhite;
+    font-size: xx-large;
+    border: 4px blue solid;
+    padding: 1% 4% 4% 4%;
+}
+
+salto::before { content: '\A'; white-space: pre;}
+
+dia[id]::before{
+    content:" ---------- " attr(id) " ---------- ";
+    color: blue;
+    font-weight: bolder;
+    background-color: aqua;
+    border-style: double;
+    margin: 22%;
+}
+zona[zone]::before{
+    content: "Zona " attr(zone) " : ";
+    color: brown;
+    font-weight: bold;
+}

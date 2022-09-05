@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/css" href="ejercicio4.css" ?>
+
+<registro>
+<dia id="Lunes">
+<salto>-</salto>
+<zona zone="oriental">
+<minima>Mínima: 27 °C |</minima>
+<promedio>Promedio: 28 °C |</promedio>
+<maxima>Máxima: 29 °C</maxima>
+<salto>-</salto>
+</zona>
+<zona zone="occidental">
+<minima>Mínima: 29 °C |</minima>
+<promedio>Promedio: 30 °C |</promedio>
+<maxima>Máxima: 32 °C</maxima>
+<salto>-</salto>
+</zona>
+
+<zona zone="central">
+<minima>Mínima: 27 °C |</minima>
+<promedio>Promedio: 29 °C |</promedio>
+<maxima>Máxima: 33 °C</maxima>
+<salto></salto>
+</zona>
+</dia>
+
+<dia id="Martes">
+<salto>-</salto>
+<zona zone="oriental">
+<minima >Mínima: 24 °C |</minima>
+<promedio>Promedio: 27 °C |</promedio>
+<maxima>Máxima: 33 °C</maxima>
+<salto>-</salto>
+</zona>
+<zona zone="occidental">
+<minima>Mínima: 28 °C |</minima>
+<promedio>Promedio: 29 °C |</promedio>
+<maxima>Máxima: 31 °C</maxima>
+<salto>-</salto>
+</zona>
+
+<zona zone="central">
+<minima>Mínima: 27 °C |</minima>
+<promedio>Promedio: 30 °C |</promedio>
+<maxima>Máxima : 34 °C</maxima>
+<salto></salto>
+</zona>
+</dia>
+<dia id="Miércoles">
+<salto>-</salto>
+<zona zone="oriental">
+<minima>Mínima: 31 °C |</minima>
+<promedio>Promedio: 32 °C |</promedio>
+<maxima>Máxima: 33 °C</maxima>
+<salto>-</salto>
+</zona>
+<zona zone="occidental">
+<minima>Mínima: 28 °C |</minima>
+<promedio>Promedio: 29 °C |</promedio>
+<maxima>Máxima: 32 °C</maxima>
+<salto>-</salto>
+</zona>
+
+<zona zone="central">
+<minima>Mínima: 27 °C |</minima>
+<promedio>Promedio: 28 °C |</promedio>
+<maxima>Máxima: 31 °C</maxima>
+<salto></salto>
+</zona>
+</dia>
+
+<dia id="Jueves">
+<salto>-</salto>
+<zona zone="oriental">
+<minima >Mínima: 26 °C |</minima>
+<promedio>Promedio: 29 °C |</promedio>
+<maxima>Máxima: 33 °C</maxima>
+<salto>-</salto>
+</zona>
+<zona zone="occidental">
+<minima>Mínima: 24 °C |</minima>
+<promedio>Promedio: 28 °C |</promedio>
+<maxima>Máxima: 30 °C</maxima>
+<salto>-</salto>
+</zona>
+
+<zona zone="central">
+<minima>Mínima: 28 °C |</minima>
+<promedio>Promedio: 28 °C |</promedio>
+<maxima>Máxima: 30 °C</maxima>
+<salto></salto>
+</zona>
+</dia>
+<dia id="Viernes">
+<salto>-</salto>
+<zona zone="oriental">
+<minima>Mínima: 31 °C |</minima>
+<promedio>Promedio: 32 °C |</promedio>
+<maxima>Máxima: 33 °C</maxima>
+<salto>-</salto>
+</zona>
+<zona zone="occidental">
+<minima>Mínima: 28 °C |</minima>
+<promedio>Promedio: 30 °C |</promedio>
+<maxima>Máxima: 32 °C</maxima>
+<salto>-</salto>
+</zona>
+
+<zona zone="central">
+<minima>Mínima: 30 °C |</minima>
+<promedio>Promedio: 31 °C |</promedio>
+<maxima>Máxima: 32 °C</maxima>
+<salto></salto>
+</zona>
+</dia>
+
+<dia id="Sábado">
+<salto>-</salto>
+<zona zone="oriental">
+<minima >Mínima: 26 °C |</minima>
+<promedio>Promedio: 28 °C |</promedio>
+<maxima>Máxima: 30 °C</maxima>
+<salto>-</salto>
+</zona>
+<zona zone="occidental">
+<minima>Mínima: 28 °C |</minima>
+<promedio>Promedio: 30 °C |</promedio>
+<maxima>Máxima: 31 °C</maxima>
+<salto>-</salto>
+</zona>
+
+<zona zone="central">
+<minima>Mínima: 29 °C |</minima>
+<promedio>Promedio: 30 °C  |</promedio>
+<maxima>Máxima: 33 °C </maxima>
+<salto></salto>
+</zona>
+</dia>
+
+<dia id="Domingo">
+<salto>-</salto>
+<zona zone="oriental">
+<minima >Mínima: 31 °C |</minima>
+<promedio>Promedio: 32 °C |</promedio>
+<maxima>Máxima: 34 °C</maxima>
+<salto>-</salto>
+</zona>
+<zona zone="occidental">
+<minima>Mínima: 27 °C |</minima>
+<promedio>Promedio: 29 °C |</promedio>
+<maxima>Máxima: 31 °C</maxima>
+<salto>-</salto>
+</zona>
+
+<zona zone="central">
+<minima>Mínima: 29 °C |</minima>
+<promedio>Promedio: 30 °C |</promedio>
+<maxima>Máxima 34 °C</maxima>
+<salto></salto>
+</zona>
+</dia>
+</registro>
